@@ -1,0 +1,58 @@
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.exe
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.deps.json
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.runtimeconfig.json
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.pdb
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.Form1.resources
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.csproj.GenerateResource.cache
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.AssemblyInfoInputs.cache
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.AssemblyInfo.cs
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.csproj.CoreCompileInputs.cache
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\refint\GestionTicket.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.pdb
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.genruntimeconfig.cache
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\ref\GestionTicket.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.csproj.AssemblyReference.cache
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.csproj.CopyComplete
+C:\Users\theo\source\repos\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.Properties.Resources.resources
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.exe
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.deps.json
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.runtimeconfig.json
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\GestionTicket.pdb
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.csproj.AssemblyReference.cache
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.Form1.resources
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.Properties.Resources.resources
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.csproj.GenerateResource.cache
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.AssemblyInfoInputs.cache
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.AssemblyInfo.cs
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.csproj.CoreCompileInputs.cache
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.csproj.CopyComplete
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\refint\GestionTicket.dll
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.pdb
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\GestionTicket.genruntimeconfig.cache
+C:\Users\AlexisOTTINA\OneDrive - pixecurity\Bureau\csharp\GestionTicket\GestionTicket\obj\Debug\net7.0-windows\ref\GestionTicket.dll
